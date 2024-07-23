@@ -114,3 +114,10 @@ import random
 
 print(random.randrange(1, 101))
 
+#Function example
+
+def myFunc():
+    import random
+    print(random.randrange(15, 1545))
+myFunc()
+
