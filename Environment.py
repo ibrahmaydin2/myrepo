@@ -11,8 +11,5 @@ def sayilar():
 
     friends = ["Ugur", "Nazim", "Ozge", "Mujdat", "Mihrap"]
     a, b, c, d, e = friends
-
-
+    print(friends)
 sayilar()
-
-print(friends)
